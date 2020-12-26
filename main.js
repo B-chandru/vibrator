@@ -1,11 +1,6 @@
 function send(){
-    var input=document.getElementById("input").value;
-    if (input === "" || input === NaN) {
-        alert("enter any number")
-    } else {
-        navigator.vibrate([100, 250,300,500,240,340,400])  
+         navigator.vibrate([500, 250, 500, 250, 500, 250, 500, 250, 500, 250, 500]);
     }
-}
 
 function stop() {
     navigator.vibrate(0);
