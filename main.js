@@ -3,7 +3,7 @@ function send(){
     if (input === "" || input === NaN) {
         alert("enter any number")
     } else {
-        navigator.vibrate(`[${input}, 250,300,500,240,340,400]`)  
+        navigator.vibrate([100, 250,300,500,240,340,400])  
     }
 }
 
