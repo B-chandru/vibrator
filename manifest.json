@@ -1,0 +1,22 @@
+{
+    "name": "vibrator",
+    "short_name": "vibrator",
+    "theme_color": "#0e151b",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "start_url": ".",
+    "icons":[
+    
+        {
+        "src":"/img/192.png",
+        "type":"image/png",
+        "sizes" : "192x192"
+    },
+    {
+        "src":"/img/512.png",
+        "type":"image/png",
+        "sizes" : "512x512"
+    }
+]
+  }
