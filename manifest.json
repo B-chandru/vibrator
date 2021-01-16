@@ -1,6 +1,6 @@
 {
-    "name": "vibrator by thidirkavikan",
-    "short_name": "vibrator",
+    "name": "vibrator",
+    "short_name": "vibrator by chandru",
     "theme_color": "#0e151b",
     "background_color": "#2196f3",
     "display": "standalone",
@@ -11,7 +11,8 @@
         {
         "src":"/img/192.png",
         "type":"image/png",
-        "sizes" : "192x192"
+        "sizes" : "192x192",
+         "purpose": "any maskable"
     },
     {
         "src":"/img/512.png",
